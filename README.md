@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying on Beijing University of Posts and Telecommunications.
 - 🌱 I’m very interested in Computer Science, especially artificial intelligence.
-- ⚡ In my spare time, I play Apex Legends, CS, Forza Horizon 4 and so on.
+- ⚡ In my spare time, I play Apex Legends, CS, OW1&2, Forza Horizon 4 and so on.
 - 💬 Feel free to reach out to me.
 
 
